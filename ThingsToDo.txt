@@ -1,0 +1,29 @@
+TODO
+----
+- Mechanum wheels code - field centric
+- Order -
+	a) mecanum wheels and addapter - 120
+        b) bevel gears - 100
+        c) NevRest 40 motors - 120
+- Side protection for mecanum wheels
+- Make space useable on the two sides
+- Move 2 hubs, phone and phone mount, battery on the two sides. Inside the robot only linear slide and linear actuator should be there. 
+- try lifting now
+
+
+
+
+DONE
+----
+
+11/10/2018 - Mechanum wheels code - robot centric 
+
+11/07/2018 - Order -
+	           d) 7'' extrusion
+	           e) 16.5'' extrusion
+11/8/2018  - Upgrade FTC software to 4.2
+11/8/2018  - Upgrade Revhub firmware
+11/10/2018 - Add washer to all mecanum wheels
+-          - Create login on first and request team membership
+11/10/2018 - Chain tensioner
+-          - Order TShirts
